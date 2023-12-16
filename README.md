@@ -9,7 +9,7 @@ Install Python 3.8.1, and ask the original author for access to the datasets and
 - Gene embedding: gene2vec_16906.npy
 # Datasets
 - New_dataset: preprocessed original dataset.
-- New_subsampling: reducing the number of cells to 300 of all cell types.
+- New_subsampling: reducing the number of cells to 300.
 - New_oversampling: augmenting the number of BP and MoP to 4600 cells using SMOTE algorithm, function fit_resample and seed=2021.
 - New_randomoversampling: augmenting the number of BP and MoP to 4000 cells using RandomOverSampler algorithm, function fit_resample and seed=2021.
 # Fine-tune
